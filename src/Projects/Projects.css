@@ -1,0 +1,22 @@
+.project{
+    border: 2px solid lightcoral;
+    border-radius: 15px;
+    padding: 10px;
+    box-shadow: 3px 3px 3px 3px black;
+    margin-top: 10px;
+}
+.project:hover{
+    background-color: bisque;
+    h4{
+        color: red;
+    }
+   
+}
+.project:hover{
+   h3 ,h1{
+    color: blue;
+   }
+   h2{
+    color: darkmagenta;
+   }
+}
